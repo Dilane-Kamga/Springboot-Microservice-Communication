@@ -1,4 +1,4 @@
-package com.dilanef.ratingsdataservice.models;
+package com.dilanef.moviecatalogservice.models;
 
 public class Rating {
 
